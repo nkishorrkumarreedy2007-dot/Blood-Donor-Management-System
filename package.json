@@ -1,0 +1,13 @@
+{
+  "name": "blood-donor-management-system",
+  "version": "1.0.0",
+  "description": "A blood donor registration and management system built with HTML, CSS, JavaScript and Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
